@@ -23,8 +23,8 @@ Aporte realizado por el equido de Desarrollo Athenas-WoW
  - Agregar link de wowhead de el hechizo, item, logro para ser mas exactos.
  - Agregar una descripción del error comprensible para cualquier persona.
  - Agregar fotos y/o vídeos.
- - Agregar enlaces que validen el error (wowhead o https://cata-twinhead.twinstar.cz/)
-   - Nota: https://cata-twinhead.twinstar.cz/ es una web que maneja las bases de datos de: Vanilla, TBC, Wotlk y Cataclysm.
+ - Agregar enlaces que validen el error (wowhead o https://wotlk-twinhead.twinstar.cz/)
+   - Nota: https://wotlk-twinhead.twinstar.cz/ es una web que maneja las bases de datos de: Vanilla, TBC, Wotlk y Cataclysm.
  
  ### Solo para Maestros de Juego
  - Elegir la etiqueta adecuada para el tipo de error reportado.
